@@ -1,0 +1,1 @@
+A simplistic Chess project made while I had little to no experience with OOP.
